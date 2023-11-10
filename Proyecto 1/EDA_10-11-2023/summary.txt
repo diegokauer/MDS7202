@@ -1,0 +1,109 @@
+Variable: ID (Numérica)
+Número de Valores Únicos: 135571
+% de Valores Faltantes: 0.00%
+Valor Mínimo: 1
+Valor Máximo: 135571
+Promedio: 68248.95439590434
+Percentil 25: 34643.0
+Percentil 50 (Mediana): 68205.0
+Percentil 75: 102097.25
+
+
+Variable: Name (Categorica)
+Número de Valores Únicos: 134732
+% de Valores Faltantes: 0.00%
+
+
+Variable: Sex (Categorica)
+Número de Valores Únicos: 2
+% de Valores Faltantes: 0.00%
+
+
+Variable: Team (Categorica)
+Número de Valores Únicos: 1184
+% de Valores Faltantes: 0.00%
+
+
+Variable: NOC (Categorica)
+Número de Valores Únicos: 230
+% de Valores Faltantes: 0.00%
+
+
+Variable: Games (Categorica)
+Número de Valores Únicos: 51
+% de Valores Faltantes: 0.00%
+
+
+Variable: Year (Numérica)
+Número de Valores Únicos: 35
+% de Valores Faltantes: 0.00%
+Valor Mínimo: 1896
+Valor Máximo: 2016
+Promedio: 1978.3784800601957
+Percentil 25: 1960.0
+Percentil 50 (Mediana): 1988.0
+Percentil 75: 2002.0
+
+
+Variable: Season (Categorica)
+Número de Valores Únicos: 2
+% de Valores Faltantes: 0.00%
+
+
+Variable: City (Categorica)
+Número de Valores Únicos: 42
+% de Valores Faltantes: 0.00%
+
+
+Variable: Sport (Categorica)
+Número de Valores Únicos: 66
+% de Valores Faltantes: 0.00%
+
+
+Variable: Event (Categorica)
+Número de Valores Únicos: 765
+% de Valores Faltantes: 0.00%
+
+
+Variable: Medal (Categorica)
+Número de Valores Únicos: 3
+% de Valores Faltantes: 85.33%
+
+
+Variable: age-height-weight (Categorica)
+Número de Valores Únicos: 37534
+% de Valores Faltantes: 0.00%
+
+
+Variable: age (Numérica)
+Número de Valores Únicos: 74
+% de Valores Faltantes: 3.49%
+Valor Mínimo: 10.0
+Valor Máximo: 97.0
+Promedio: 25.556898357297374
+Percentil 25: 21.0
+Percentil 50 (Mediana): 24.0
+Percentil 75: 28.0
+
+
+Variable: height (Numérica)
+Número de Valores Únicos: 95
+% de Valores Faltantes: 22.19%
+Valor Mínimo: 127.0
+Valor Máximo: 226.0
+Promedio: 175.33896987366376
+Percentil 25: 168.0
+Percentil 50 (Mediana): 175.0
+Percentil 75: 183.0
+
+
+Variable: weight (Numérica)
+Número de Valores Únicos: 220
+% de Valores Faltantes: 23.19%
+Valor Mínimo: 25.0
+Valor Máximo: 214.0
+Promedio: 70.70239290053351
+Percentil 25: 60.0
+Percentil 50 (Mediana): 70.0
+Percentil 75: 79.0
+
